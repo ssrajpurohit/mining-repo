@@ -1,2 +1,2 @@
 # mining-repo
-demo
+This is my demo.
